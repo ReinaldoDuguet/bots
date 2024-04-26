@@ -1,0 +1,4 @@
+.env
+drivers/
+envBots/
+geckodriver.log
