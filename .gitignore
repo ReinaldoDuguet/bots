@@ -2,3 +2,5 @@
 drivers/
 envBots/
 geckodriver.log
+envBotsMPuentes/
+csv/
